@@ -13,7 +13,6 @@ class Connect extends PDO{
 
 }
 
-?>
 
 
 
